@@ -1,5 +1,5 @@
 {
-  "name": "testjs",
+  "name": "testjs-roy",
   "version": "1.0.0",
   "description": "test",
   "main": "index.js",
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav-roy-prescriber-360/TestJs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sourav-roy-prescriber-360/TestJs/issues"
+  },
+  "homepage": "https://github.com/sourav-roy-prescriber-360/TestJs#readme"
 }
